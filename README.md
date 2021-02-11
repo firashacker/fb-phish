@@ -2,7 +2,7 @@
 smart way to phish facebook accounts
 
 # requirements
-tested only on kalilinux if your OS not runing php this tool will be unusefull for you 
+tested only on kalilinux if your OS not runing php this tool will be unusefull for you
 apache2 server
 ngrok (download , authonicate and move to /usr/local/bin)
 
